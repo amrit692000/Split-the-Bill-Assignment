@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Split_bill_library", "Split_bill_library\Split_bill_library.csproj", "{7E3D1AFB-CC39-45EA-9FB9-778B1C64D85E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Split_bill_Test", "Split_bill_Test\Split_bill_Test.csproj", "{212C025B-CE96-4314-ADB4-A81A6EC9D2E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E3D1AFB-CC39-45EA-9FB9-778B1C64D85E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E3D1AFB-CC39-45EA-9FB9-778B1C64D85E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E3D1AFB-CC39-45EA-9FB9-778B1C64D85E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E3D1AFB-CC39-45EA-9FB9-778B1C64D85E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{212C025B-CE96-4314-ADB4-A81A6EC9D2E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{212C025B-CE96-4314-ADB4-A81A6EC9D2E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{212C025B-CE96-4314-ADB4-A81A6EC9D2E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{212C025B-CE96-4314-ADB4-A81A6EC9D2E4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
